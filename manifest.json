@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+
+    "name": "SocioRest",
+    "description": "Provides rest from Social media during work hours",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_title": "SocioRest",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
