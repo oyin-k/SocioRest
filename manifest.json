@@ -11,7 +11,7 @@
         "default_popup": "popup.html"
     },
     "permissions": [
-        "activeTab",
-        "http://twitter.com/"
+        "tabs",
+        "http://twitter.com/*"
     ]
 }
